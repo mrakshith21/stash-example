@@ -1,2 +1,2 @@
 # stash-example
-Wrote something 
+Wrote something
